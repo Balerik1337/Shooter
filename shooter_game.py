@@ -1,4 +1,5 @@
 #Создай собственный Шутер!
+#!Ура!!! Я выложил эту игру!!!
 
 from pygame import *
 from random import (
